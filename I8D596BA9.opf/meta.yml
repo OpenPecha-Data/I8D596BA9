@@ -1,0 +1,16 @@
+id: I8D596BA9
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:07:38.499476
+last_modified: 2023-02-08 15:07:38.499587
+source_metadata:
+  title: 'RK: Gaṅgottaraparipṛcchā'
+  language: bo
+bases:
+  F17F:
+    base_file: F17F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
